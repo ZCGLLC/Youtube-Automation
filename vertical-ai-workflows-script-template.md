@@ -248,17 +248,17 @@ Break into **2–3 labeled substeps** (on-screen chapter cards).
 
 ## 6. Plug-and-play variables (from our 30-concept slate)
 
-Use with concepts in `vertical-ai-workflows-30-video-concepts.md`:
+Use with concepts in `vertical-ai-workflows-30-video-concepts.md` (AI for accountants & tax pros):
 
-| Variable | Example fill (Concept #1 — Invoice Audit) |
+| Variable | Example fill (Concept #1 — Invoice Coding) |
 | --- | --- |
-| `PROFESSION_TASK` | month-end invoice exception review |
+| `PROFESSION_TASK` | vendor invoice coding / exception review |
 | `WRONG_DEFAULT` | pasting PDFs into a generic ChatGPT window |
-| `DELIVERABLE` | exception-only review list |
+| `DELIVERABLE` | exception-only coding suggestion list |
 | `OLD_TIME` / `NEW_TIME` | 47 minutes / 6 minutes |
 | `TOOL` | Claude Project + spreadsheet export |
-| `ROLE_A/B/C` | Extractor / Policy checker / Summary writer |
-| `RISK_AREA` | hallucinated invoice line items |
+| `ROLE_A/B/C` | Extractor / GL-policy checker / Summary writer |
+| `RISK_AREA` | hallucinated line items or wrong GL codes |
 | `FILE_NAME` | `invoice-exception-stack-v1.md` |
 | `CTA_MECHANIC` | comment `AUDIT` |
 
